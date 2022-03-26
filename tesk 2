@@ -1,0 +1,20 @@
+namespace IJunior_Task2
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            byte bitСonsoleDendy;
+            short temperatureOutside;
+            int maxHeightTable;
+            uint weightBox;
+            long depthLake;
+            ulong rangeTarget;
+            double speedWind;
+            char rhesusFactor;
+            string firstName;
+            bool signalSiren;
+
+        }
+    }
+}
