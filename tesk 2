@@ -13,7 +13,7 @@ namespace IJunior_Task2
             double speedWind;
             char rhesusFactor;
             string firstName;
-            bool takeValue;
+            bool isValidValue;
         }
     }
 }
